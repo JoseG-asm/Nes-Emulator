@@ -1,2 +1,2 @@
 # Nes-Emulator
-Nes emulator from scratch thx
+Nes emulator from scratch
