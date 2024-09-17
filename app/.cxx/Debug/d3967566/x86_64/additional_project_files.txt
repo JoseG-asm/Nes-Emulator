@@ -1,0 +1,4 @@
+/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/cpu.h
+/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/bus.h
+/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/log.h
+/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/types.h

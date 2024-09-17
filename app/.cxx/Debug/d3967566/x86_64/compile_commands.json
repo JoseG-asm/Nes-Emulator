@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/x86_64",
+  "command": "/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/sysroot -Dnes_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/nes.dir/cpu.cpp.o -c \"/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/cpu.cpp\"",
+  "file": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/cpu.cpp"
+},
+{
+  "directory": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/x86_64",
+  "command": "/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/sysroot -Dnes_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/nes.dir/bus.cpp.o -c \"/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/bus.cpp\"",
+  "file": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/bus.cpp"
+},
+{
+  "directory": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/x86_64",
+  "command": "/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/sysroot -Dnes_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/nes.dir/log.cpp.o -c \"/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/log.cpp\"",
+  "file": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/log.cpp"
+},
+{
+  "directory": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/x86_64",
+  "command": "/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/data/data/com.itsaky.androidide/files/home/android-sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-aarch64/sysroot -Dnes_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/nes.dir/native-lib.cpp.o -c \"/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/native-lib.cpp\"",
+  "file": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/native-lib.cpp"
+}
+]

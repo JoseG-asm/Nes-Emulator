@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/data/data/com.itsaky.androidide/files/home/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/data/data/com.itsaky.androidide/files/home/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "nes::@6890427a1f51a3e7e1df": {
+      "artifactName": "nes",
+      "abi": "x86",
+      "output": "/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/build/intermediates/cxx/Debug/d3967566/obj/x86/libnes.so",
+      "runtimeFiles": []
+    }
+  }
+}

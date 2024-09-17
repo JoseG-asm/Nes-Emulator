@@ -1,0 +1,3 @@
+/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/arm64-v8a/CMakeFiles/nes.dir
+/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/arm64-v8a/CMakeFiles/edit_cache.dir
+/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/.cxx/Debug/d3967566/arm64-v8a/CMakeFiles/rebuild_cache.dir

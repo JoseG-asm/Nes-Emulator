@@ -1,0 +1,9 @@
+# ninja log v5
+10172	10526	1726500722756564174	/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/build/intermediates/cxx/Debug/d3967566/obj/x86_64/libnes.so	798d8fc377153397
+64	10166	1726500722364564174	CMakeFiles/nes.dir/cpu.cpp.o	d0a9f8115cd1ffcc
+64	7364	1726500719568564174	CMakeFiles/nes.dir/bus.cpp.o	8bbcf9d8e80d4635
+35	7903	1726504477224564398	CMakeFiles/nes.dir/log.cpp.o	971583b1a0a48852
+36	8606	1726504477900564398	CMakeFiles/nes.dir/native-lib.cpp.o	2033ef188cfdaa2d
+34	8620	1726504477916564398	CMakeFiles/nes.dir/bus.cpp.o	8bbcf9d8e80d4635
+32	12067	1726504481356564398	CMakeFiles/nes.dir/cpu.cpp.o	d0a9f8115cd1ffcc
+12070	12822	1726504482156564398	/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/build/intermediates/cxx/Debug/d3967566/obj/x86_64/libnes.so	ed4ad5f15afa9185

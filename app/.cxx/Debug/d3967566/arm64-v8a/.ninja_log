@@ -1,0 +1,22 @@
+# ninja log v5
+12067	12879	1726500592076564166	/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/build/intermediates/cxx/Debug/d3967566/obj/arm64-v8a/libnes.so	16592c805bdc14e3
+44	12054	1726500591192564166	CMakeFiles/nes.dir/cpu.cpp.o	8b73870e07e692f
+51	7109	1726500540424564163	CMakeFiles/nes.dir/bus.cpp.o	9ad75924e764df97
+51	8282	1726503764896564356	CMakeFiles/nes.dir/native-lib.cpp.o	174a41dce19eef31
+41	8419	1726503765044564356	CMakeFiles/nes.dir/bus.cpp.o	9ad75924e764df97
+37	12101	1726503768696564356	CMakeFiles/nes.dir/cpu.cpp.o	8b73870e07e692f
+100	8839	1726504031632564371	CMakeFiles/nes.dir/bus.cpp.o	9ad75924e764df97
+96	12266	1726504035040564372	CMakeFiles/nes.dir/cpu.cpp.o	8b73870e07e692f
+740	8965	1726504379204564392	CMakeFiles/nes.dir/log.cpp.o	30507473e0f916b4
+736	10306	1726504380584564392	CMakeFiles/nes.dir/bus.cpp.o	9ad75924e764df97
+10311	11171	1726504381472564392	/storage/emulated/0/AndroidIDEProjects/Nes Emulator/app/build/intermediates/cxx/Debug/d3967566/obj/arm64-v8a/libnes.so	d520d04b837e437d
+990	12332	1726531959084790306	CMakeFiles/nes.dir/bus.cpp.o	9ad75924e764df97
+409	14083	1726532101208790315	CMakeFiles/nes.dir/cpu.cpp.o	8b73870e07e692f
+307	9999	1726532217816790322	CMakeFiles/nes.dir/bus.cpp.o	9ad75924e764df97
+625	10569	1726532336008790329	CMakeFiles/nes.dir/bus.cpp.o	9ad75924e764df97
+622	13842	1726532339284790329	CMakeFiles/nes.dir/cpu.cpp.o	8b73870e07e692f
+290	8461	1726532567316790342	CMakeFiles/nes.dir/log.cpp.o	30507473e0f916b4
+289	8847	1726532567724790343	CMakeFiles/nes.dir/bus.cpp.o	9ad75924e764df97
+287	12178	1726532571028790343	CMakeFiles/nes.dir/cpu.cpp.o	8b73870e07e692f
+81	6494	1726532767372790354	CMakeFiles/nes.dir/log.cpp.o	30507473e0f916b4
+80	11082	1726532771936790355	CMakeFiles/nes.dir/cpu.cpp.o	8b73870e07e692f
